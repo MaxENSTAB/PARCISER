@@ -7,7 +7,7 @@ function [A,histo] = OMP_base(D,X,L)
 % INPUTS :
 % D - the dictionary / the model
 % X - the signals to represent
-% L - the maximal number of coefficient for representation
+% L - the maximal number of coefficients for representation
 %     of each signal / sparsity level
 %
 % OUTPUTS :
