@@ -1,0 +1,23 @@
+ Nom d'utiliateur: comblefa
+ Date et heure: 03/04/18 10:40
+ Type de mesure : ser
+ Nom mesure : vide_hor
+ Puissance émission : 0.0
+
+ Mode angulaire : fixe
+ Angle fixe : 0
+ Angle initial : none
+ Angle final : none
+ Pas angulaire : none
+
+ Mode en fréquence : balayage
+ Fréquence fixe (GHz) : none
+ Fréquence minimale (GHz) : 2.5
+ Fréquence maximale (GHz) : 17.5
+ Nombre de points de mesure : 1601
+
+ Polarisation : HH, HV, VH, VV, 
+ Plaque canonique - longueur : none
+ Plaque canonique - largeur : none
+ Sphère canonique - rayon : none
+

@@ -1,0 +1,23 @@
+ Nom d'utiliateur: comblefa
+ Date et heure: 03/04/18 16:13
+ Type de mesure : ser
+ Nom mesure : drone_hori_av
+ Puissance émission : 0.0
+
+ Mode angulaire : pas à pas
+ Angle fixe : none
+ Angle initial : -90.0
+ Angle final : 90.0
+ Pas angulaire : 0.5
+
+ Mode en fréquence : balayage
+ Fréquence fixe (GHz) : none
+ Fréquence minimale (GHz) : 2.5
+ Fréquence maximale (GHz) : 17.5
+ Nombre de points de mesure : 1601
+
+ Polarisation : HH, HV, VH, VV, 
+ Plaque canonique - longueur : none
+ Plaque canonique - largeur : none
+ Sphère canonique - rayon : none
+
