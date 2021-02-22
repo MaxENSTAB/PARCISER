@@ -13,7 +13,7 @@ for i = 1:length(array)
 %         out(i) = array(i)+thresh;
 %     end
 
-out(i) = array(i)*(max(abs(array(i)-thresh),0))/((max(abs(array(i)-thresh),0)+thresh));
+out(i) = array(i)*(max(abs(array(i))-thresh,0))/((max(abs(array(i))-thresh,0)+thresh));
 end
 
 
